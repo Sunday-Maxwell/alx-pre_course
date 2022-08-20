@@ -1,1 +1,1 @@
-How to creat and commit files in directories
+“Starting to code today, so cool”
