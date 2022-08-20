@@ -1,1 +1,1 @@
-How to create a directory and readme file inside the repository (alx-pre_course)
+How to creat and commit files in directories
