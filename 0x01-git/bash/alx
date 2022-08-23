@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-echo "ALX School is so cool!"
-=======
-echo "ALX School"
->>>>>>> update_script
+echo "ALX School is so cool is a content of merge alx file from branch
